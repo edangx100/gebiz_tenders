@@ -5,7 +5,6 @@ A tender intelligence system that transforms GeBIZ tender/award text into a quer
 ## Overview
 
 This system ingests GeBIZ award records from data.gov.sg, converts each record into a compact "tender card" chunk, extracts entities and relations using a schema-first [GLiNER2](https://arxiv.org/abs/2507.18546) pipeline, and imports the results into Neo4j with end-to-end traceability.  
-It includes a demo query pack (agency, supplier, category, requirements overlap) plus a "similar tenders" ranking for exploration.
 
 ### Core Value Proposition
 
