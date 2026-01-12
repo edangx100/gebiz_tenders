@@ -354,8 +354,6 @@ pip install gliner2>=0.1.0
 
 
 ## References
-
 - Data source: `https://data.gov.sg/datasets?query=gebiz&resultId=d_acde1106003906a75c3fa052592f2fcb`
 
 
-## License
